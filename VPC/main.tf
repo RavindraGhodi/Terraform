@@ -10,8 +10,8 @@ required_version = "1.5.4"
 
 provider "aws" {
     region = "us-east-1"
-    access_key = "AKIAUUXJKYXWWSEFJG5Y"
-    secret_key = "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"
+    access_key = ""
+    secret_key = ""
 }
 
 # variables 
